@@ -1,4 +1,4 @@
-module github.com/tmbdev/tarp/tarp
+module github.com/shubham-goel/tarp/tarp
 
 go 1.17
 
